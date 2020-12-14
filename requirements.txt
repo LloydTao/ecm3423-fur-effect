@@ -1,3 +1,8 @@
 # Code quality
 black==20.8b1
 
+# Python environment for OpenGL
+numpy==1.19.4
+pygame==2.0.0
+PyOpenGL==3.1.5
+PyOpenGL-accelerate==3.1.5
